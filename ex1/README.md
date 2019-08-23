@@ -147,4 +147,4 @@ While waiting for Easy Travel to start, you can explore Dynatrace and using the 
 
 :arrow_forward: [Next exercise: Exercise 2](/ex2)
 
-:arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
+:arrow_up_small: [Back to overview](https://github.com/jsharma19/gettingstarted_hotsession)
