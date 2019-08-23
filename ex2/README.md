@@ -20,7 +20,7 @@ Reference:https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape
 ### Task 2. Explore Transactions and Services
 
 1. Select "Transactions and Services" from Navigation Menu.
-2. Select "easyTravel Customer Frontend" service from 
+2. Select "easyTravel Customer Frontend" service from services list.
 
    ![Deploy](https://github.com/jsharma19/gettingstarted_hotsession/blob/master/assets/Service%20Overview.PNG)
 
