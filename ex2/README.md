@@ -34,3 +34,9 @@ Reference:https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape
 
 1. Click "Hosts" on the navigation menu and click on your host. 
 2. Explore the host details view on the host page.
+
+---
+
+:arrow_forward: [Next exercise: Exercise 3](/ex3)
+
+:arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
