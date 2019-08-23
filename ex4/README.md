@@ -42,7 +42,7 @@ Through PurePath technology, Dynatrace enables you to efficiently find the prove
 
 
 ---
-:arrow_forward: [Next exercise: Exercise 4](/ex4)
+:arrow_forward: [Next exercise: Exercise 4](/ex3)
 
-:arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
+:arrow_up_small: [Back to overview](https://github.com/jsharma19/gettingstarted_hotsession)
 
