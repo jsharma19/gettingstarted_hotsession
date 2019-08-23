@@ -35,6 +35,4 @@ The Current hotspot pane displays top hotspot findings of the service. Requests 
 
 ---
 
-:arrow_forward: [Next exercise: Exercise 5](/ex5)
 
-:arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
