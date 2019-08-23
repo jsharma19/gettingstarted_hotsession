@@ -1,4 +1,4 @@
-## Exercise 4
+## Exercise 3
 This exercise covers analysis of Transactions and Services.
 
 Read about Transactions and Services here:(https://www.dynatrace.com/support/help/how-to-use-dynatrace/services-and-transactions/)
