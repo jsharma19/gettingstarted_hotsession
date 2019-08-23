@@ -13,8 +13,7 @@ Environment that we will use
 
 **Exercise 2** [Exploring Smartscape,Hosts,Transactions and Services](/ex2)
 
-**Exercise 3** [Configure Real User Monitoring in Dynatrace](/ex3)
+**Exercise 3** [Service Analysis](/ex4)
 
-**Exercise 4** [Configure Session Replay in Dynatrace](/ex4)
+**Exercise 4** [Configure Real User Monitoring in Dynatrace](/ex3)
 
-**Exercise 5 (Optional)** [User Session Query Language (USQL)](/ex5)
