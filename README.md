@@ -1,5 +1,5 @@
 # Getting started with Dynatrace
-This repository contains the exercises for the Digital Experience Management Hands-on Training (HOT) session.
+This repository contains the exercises for the "Getting Started" Hands-on Training (HOT) session.
 
 Environment that we will use
 
