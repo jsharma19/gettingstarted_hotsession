@@ -1,4 +1,4 @@
-## Exercise 3
+## Exercise 4
 In this exercise, we will cover the basics of Real User Monitoring. These are some of the best practices that should be followed every time the Dynatrace JavaScript agent is deployed, be it an automated or manual injection. 
 
 More information can be found here: [How to use Dynatrace > Real User Monitoring > Setup and configuration > Web applications](https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/setup-and-configuration/web-applications/)
@@ -47,6 +47,4 @@ Click on Any of the user session to look at different user actions and its metri
 
 ---
 
-:arrow_forward: [Next exercise: Exercise 4](/ex4)
 
-:arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
