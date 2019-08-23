@@ -20,7 +20,8 @@ Reference:https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape
 ### Task 2. Explore Transactions and Services
 
 1. Select "Transactions and Services" from Navigation Menu.
-2. Select "easyTravel Customer Frontend" service from services list.
+2. Select "easyTravel Customer Frontend" service from services list. 
+3. Explore the detailed serview view.
 
    ![Deploy](https://github.com/jsharma19/gettingstarted_hotsession/blob/master/assets/Service%20Overview.PNG)
 
@@ -32,4 +33,4 @@ Reference:https://www.dynatrace.com/support/help/how-to-use-dynatrace/smartscape
 ### Task 3. Explore the Hosts view
 
 1. Click "Hosts" on the navigation menu and click on your host. 
-2. Explore the host details view
+2. Explore the host details view on the host page.
