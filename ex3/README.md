@@ -75,6 +75,6 @@ Once you’ve identified where usernames are located in your page source, you ca
 
 ---
 
-:arrow_forward: [Next exercise: Exercise 3](/ex3)
+:arrow_forward: [Next exercise: Exercise 4](/ex4)
 
 :arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
