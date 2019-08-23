@@ -5,7 +5,7 @@ Read about Transactions and Services here:(https://www.dynatrace.com/support/hel
 
 ### 1. Top Web Requests
 
-Reference: https://www.dynatrace.com/support/help/how-to-use-dynatrace/real-user-monitoring/setup-and-configuration/web-applications/additional-configuration/configure-session-replay-for-personal-data-protection/
+
 
 1. Select customer Frontend service from "Transactions and Services" view.
 2. Click on "View Dynamic Requests"
