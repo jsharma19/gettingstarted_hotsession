@@ -145,6 +145,6 @@ While waiting for Easy Travel to start, you can explore Dynatrace and using the 
 
 ---
 
-:arrow_forward: [Next exercise: Exercise 2](/ex2)
+:arrow_forward: [Next exercise: Exercise 3](/ex3)
 
 :arrow_up_small: [Back to overview](https://github.com/performgohot19/DEM)
